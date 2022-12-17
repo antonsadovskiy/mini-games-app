@@ -145,7 +145,6 @@ class Py2048:
 
             old_grid = self.grid.copy()
             self.make_move(cmd)
-            # print(game.grid)
             if self.game_over():
                 break
 
