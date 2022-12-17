@@ -1,1 +1,1 @@
-# mini-games-app
+# mini-games app
